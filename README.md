@@ -8,7 +8,7 @@ This dataset is provided by SOTER and I have make some cleaning in order to obta
 data_sol<-read.csv2("C:\\Users\\pc\\Downloads\\Modelisation_Soter_data_Senegal-master\\Modelisation_Soter_data_Senegal-master\\donnees soter.csv")
 
 ```
-## Structure of datast
+## Structure of dataset
 let's take a look in the data set
 ```{r,eval=TRUE}
 str(data_sol)
